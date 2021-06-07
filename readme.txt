@@ -3,3 +3,6 @@ Chage --no--ff
 
 
 git dev stash bug 
+
+
+this is repaired bug...bug101
